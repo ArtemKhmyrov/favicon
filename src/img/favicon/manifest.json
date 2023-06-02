@@ -1,0 +1,43 @@
+{
+    "name": "Саратовский государственный университет им. Н.Г.Чернышевского",
+    "short_name": "СГУ",
+    "description": "Саратовский национальный исследовательский государственный университет имени Н.Г. Чернышевского",
+    "lang": "ru-Ru",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#6CAFC9",
+    "color": "#ffffff",
+    "icons": [
+     {
+      "src": "\/themes\/custom\/ssu\/img\/favaicon\/favicon-72x72.png",
+      "sizes": "72x72",
+      "type": "image\/png",
+      "density": "1.5"
+     },
+     {
+      "src": "\/themes\/custom\/ssu\/img\/favaicon\/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image\/png",
+      "density": "2.0"
+     },
+     {
+      "src": "\/themes\/custom\/ssu\/img\/favaicon\/favicon-144x144.png",
+      "sizes": "144x144",
+      "type": "image\/png",
+      "density": "3.0"
+     },
+     {
+      "src": "\/themes\/custom\/ssu\/img\/favaicon\/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image\/png",
+      "density": "4.0"
+     },
+     {
+      "src": "\/themes\/custom\/ssu\/img\/favaicon\/favicon-310x310.png",
+      "sizes": "310x310",
+      "type": "image\/png"
+     }
+    ]
+   }
